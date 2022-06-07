@@ -6,7 +6,7 @@ body {
 
 header {
   background-color: #184520;
-  margin-bottom: 20px #2A7039;
+  border-bottom: 20px #2A7039 solid;
 }
 
 header img {
@@ -31,4 +31,21 @@ nav p {
 
 .container-nav {
   display: flex;
+}
+
+main {
+  border-top: #AACB62 25px solid;
+  background-color: #CCAB7F;
+}
+
+main h1 {
+  font-size: 20px;
+  color: #184520;
+  font-family: 'Glory Sunshine';
+}
+
+main p {
+  font-size: 20px;
+  color: #184520;
+  font-family: 'Coming Soon';
 }
