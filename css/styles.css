@@ -44,8 +44,27 @@ main h1 {
   font-family: 'Glory Sunshine';
 }
 
-main p {
+main h2 {
   font-size: 20px;
   color: #184520;
+  font-family: 'Glory Sunshine';
+}
+
+main p {
+  font-size: 14px;
+  color: #184520;
   font-family: 'Coming Soon';
+}
+
+figcaption {
+  font-family: 'Coming Soon';
+  color: white;
+  font-size: 10px;
+  background-color: #184520;
+  text-align: center;
+  width: 296px;
+  margin-top: -6px;
+  padding: 10px 2px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
