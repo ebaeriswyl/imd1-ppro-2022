@@ -1,0 +1,33 @@
+body {
+  max-width: 375px;
+  margin: auto;
+}
+
+
+header {
+  background-color: #184520;
+}
+
+header img {
+  width: 185px;
+  padding: 15px;
+  padding-right: 175px;
+  border-bottom: #2A7039 dashed 2px;
+}
+
+nav p {
+  font-family: 'Glory Sunshine';
+  font-size: 20px;
+  color: white;
+  /* margin: 15px; */
+  border: white solid 1px;
+  border-radius: 10px;
+  /* padding: 0px 35px; */
+  padding-top: 10px;
+  text-align: center;
+  line-height: 1em;
+}
+
+.container-nav {
+  display: flex;
+}
