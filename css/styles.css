@@ -102,3 +102,12 @@ figcaption {
   margin: 0px 38px; 
 }
 
+.points-de-vente {
+  border-top: #184520 solid 25px;
+  padding: 47px 0px;
+}
+
+.points-de-vente h2 {
+  margin: 0px 0px -4px;
+}
+
