@@ -137,3 +137,7 @@ figcaption {
 .texte-boutique h2 {
   align-self: center;
 }
+
+.carte-container {
+  margin: 0px 38px 40px;
+}
