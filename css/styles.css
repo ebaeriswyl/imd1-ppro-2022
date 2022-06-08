@@ -111,3 +111,29 @@ figcaption {
   margin: 0px 0px -4px;
 }
 
+.container-boutique img {
+  width: 60px;
+  margin-left: 38px;
+}
+
+.container-boutique p {
+  text-align: center;
+  margin: auto;
+  padding: 0px 36px;
+}
+
+.container-boutique {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.texte-boutique {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 38px;
+}
+
+.texte-boutique h2 {
+  align-self: center;
+}
