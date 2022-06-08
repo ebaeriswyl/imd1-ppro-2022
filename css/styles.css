@@ -104,7 +104,7 @@ figcaption {
 .points-de-vente {
   border-top: #184520 solid 25px;
   border-bottom: #AACB62 solid 20px;
-  padding: 47px 0px;
+  padding-top: 47px;
 }
 
 .points-de-vente h2 {
@@ -145,6 +145,7 @@ figcaption {
 footer {
   border-top:#2A7039 solid 25px;
   background-color: #184520;
+  padding-bottom: 70px;
 }
 
 footer img {
@@ -159,6 +160,7 @@ footer h1 {
   color: white;
   font-family: 'Glory Sunshine';
   text-align: center;
+  margin-top: 40px;
 }
 
 footer p {
@@ -174,5 +176,4 @@ footer a {
   font-family: 'Coming Soon';
   color: white;
   margin-left: 110px;
-  margin-top: -10px;
 }
