@@ -3,7 +3,6 @@ body {
   margin: auto;
 }
 
-
 header {
   background-color: #184520;
   border-bottom: 20px #2A7039 solid;
@@ -104,6 +103,7 @@ figcaption {
 
 .points-de-vente {
   border-top: #184520 solid 25px;
+  border-bottom: #AACB62 solid 20px;
   padding: 47px 0px;
 }
 
@@ -140,4 +140,39 @@ figcaption {
 
 .carte-container {
   margin: 0px 38px 40px;
+}
+
+footer {
+  border-top:#2A7039 solid 25px;
+  background-color: #184520;
+}
+
+footer img {
+  width: 185px;
+  padding: 15px;
+  padding-right: 175px;
+  border-bottom: #2A7039 dashed 2px;
+}
+
+footer h1 {
+  font-size: 20px;
+  color: white;
+  font-family: 'Glory Sunshine';
+  text-align: center;
+}
+
+footer p {
+  font-family: 'Coming Soon';
+  font-size: 14px;
+  text-align: center;
+  color: white;
+  margin: auto;
+}
+
+footer a {
+  font-size: 14px;
+  font-family: 'Coming Soon';
+  color: white;
+  margin-left: 110px;
+  margin-top: -10px;
 }
