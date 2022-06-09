@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Glory Sunshine';
+  src: url('../fonts/GlorySunshine.woff2') format('woff2'),
+      url('../fonts/GlorySunshine.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+font-family: 'Coming Soon';
+src: url('../fonts/ComingSoon-Regular.woff2') format('woff2'),
+    url('../fonts/ComingSoon-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
